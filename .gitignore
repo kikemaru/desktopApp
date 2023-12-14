@@ -4,4 +4,4 @@
 .idea/vcs.xml
 *.DS_Store
 ./deployment
-./idea
+./idea/awesomeProject2.iml
