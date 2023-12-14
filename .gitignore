@@ -3,5 +3,4 @@
 .idea/schedule.iml
 .idea/vcs.xml
 *.DS_Store
-./deployment
-./idea/awesomeProject2.iml
+.idea/awesomeProject2.iml
